@@ -15,5 +15,32 @@
         "/media/lalibela2.jpg"
       ]
     }
+  },
+  "axum": {
+    "meta": {
+      "title": "Axum - Ethiopia's Ancient Cradle of Civilization",
+      "description": "Where Legends of Kings, Queens, and Sacred Arks Come to Life"
+    },
+    "content": {
+      "highlights": [
+        "UNESCO World Heritage Site",
+        "Legendary Obelisks (1,700 years old)",
+        "Chapel of the Ark of the Covenant",
+        "Queen of Sheba's Palace Ruins",
+        "Ancient Underground Tombs"
+      ],
+      "tours": [
+        {"name": "Axum Day Tour", "duration": "1 day", "price": "$120"},
+        {"name": "Axum Heritage Experience", "duration": "3 days", "price": "$280"},
+        {"name": "Historic Route: Axum & Lalibela", "duration": "7 days", "price": "$850"}
+      ],
+      "gallery": [
+        "/media/axum-obelisks.jpg",
+        "/media/axum-ark-chapel.jpg",
+        "/media/axum-queen-palace.jpg",
+        "/media/axum-museum.jpg"
+      ],
+      "description": "Step into 3,000 years of history in Axum, the beating heart of Ethiopia's glorious past. As the capital of the mighty Aksumite Kingdom (1st–7th century AD), this UNESCO World Heritage Site was once one of the four great powers of the ancient world, alongside Rome, Persia, and China. Today, its towering obelisks, underground tombs, and sacred relics whisper tales of a civilization that dominated trade routes from Africa to Asia."
+    }
   }
 } 

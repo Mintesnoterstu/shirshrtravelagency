@@ -10,8 +10,8 @@ function App() {
       <nav style={{display: 'flex', gap: '1.5rem', padding: '1rem', background: '#f7f7f7', borderBottom: '1px solid #eee'}}>
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
-        <Link to="/contact">Contact</Link>
         <Link to="/tours">Tours</Link>
+        <Link to="/contact">Contact</Link>
       </nav>
       <Routes>
         <Route path="/" element={<Home />} />
