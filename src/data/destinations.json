@@ -42,5 +42,61 @@
       ],
       "description": "Step into 3,000 years of history in Axum, the beating heart of Ethiopia's glorious past. As the capital of the mighty Aksumite Kingdom (1st–7th century AD), this UNESCO World Heritage Site was once one of the four great powers of the ancient world, alongside Rome, Persia, and China. Today, its towering obelisks, underground tombs, and sacred relics whisper tales of a civilization that dominated trade routes from Africa to Asia."
     }
+  },
+  "gondar": {
+    "meta": {
+      "title": "Gondar - Ethiopia's Imperial Citadel",
+      "description": "Where Medieval Castles Meet African Majesty"
+    },
+    "content": {
+      "highlights": [
+        "UNESCO World Heritage Site - Fasil Ghebbi",
+        "Africa's Camelot - 17th Century Royal Enclosure",
+        "Timkat Festival - Africa's Greatest Epiphany Celebration",
+        "Debre Berhan Selassie Church - Ceiling of Angels",
+        "Kuskuam Complex - Empress Mentewab's Retreat"
+      ],
+      "tours": [
+        {"name": "Gondar Royal Experience", "duration": "1 day", "price": "$95"},
+        {"name": "Gondar Heritage Tour", "duration": "3 days", "price": "$220"},
+        {"name": "Timkat Festival Special", "duration": "5 days", "price": "$450"},
+        {"name": "Historic Route: Gondar & Lalibela", "duration": "7 days", "price": "$780"}
+      ],
+      "gallery": [
+        "/media/gondar-fasilides-palace.jpg",
+        "/media/gondar-timkat-festival.jpg",
+        "/media/gondar-debre-berhan.jpg",
+        "/media/gondar-kuskuam.jpg"
+      ],
+      "description": "Welcome to Gondar, Ethiopia's answer to Camelot—a city where fairy-tale castles rise against the backdrop of the Simien Mountains. Founded in 1636 by Emperor Fasilides, Gondar served as Ethiopia's imperial capital for over 200 years, blending African tradition with European and Arab influences. Today, its UNESCO-listed palaces, ornate churches, and vibrant festivals make it a crown jewel of Ethiopia's Historic Route."
+    }
+  },
+  "simien-mountains": {
+    "meta": {
+      "title": "Simien Mountains - Africa's Grandest Highlands",
+      "description": "Where Jagged Peaks Touch the Sky and Rare Wildlife Roams Free"
+    },
+    "content": {
+      "highlights": [
+        "UNESCO World Heritage Site - Africa's Grand Canyon",
+        "Ras Dashen Summit - Ethiopia's Highest Peak (4,543m)",
+        "Gelada Monkeys - Endemic 'Bleeding-Heart Baboons'",
+        "Ethiopian Wolves - World's Rarest Canid",
+        "Walia Ibex - Endangered Mountain Goats"
+      ],
+      "tours": [
+        {"name": "Simien Day Trek", "duration": "1 day", "price": "$85"},
+        {"name": "Gelada & Ibex Adventure", "duration": "3 days", "price": "$320"},
+        {"name": "Ras Dashen Summit Trek", "duration": "7 days", "price": "$680"},
+        {"name": "Simien Mountains Expedition", "duration": "12 days", "price": "$1,200"}
+      ],
+      "gallery": [
+        "/media/simien-escarpment.jpg",
+        "/media/simien-gelada-monkeys.jpg",
+        "/media/simien-ras-dashen.jpg",
+        "/media/simien-imet-gogo.jpg"
+      ],
+      "description": "Prepare to have your breath stolen - literally and figuratively - in Ethiopia's Simien Mountains National Park, a UNESCO World Heritage Site often called 'Africa's Grand Canyon.' This otherworldly landscape of dramatic escarpments, sheer cliffs, and rolling highland plateaus plunges down nearly 1,500 meters in places, creating one of the continent's most spectacular trekking destinations. Home to endemic wildlife, traditional villages, and some of the continent's most breathtaking vistas, the Simiens offer an adventure that's both physically challenging and spiritually uplifting."
+    }
   }
 } 
