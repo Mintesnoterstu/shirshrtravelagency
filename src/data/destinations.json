@@ -1,0 +1,19 @@
+{
+  "lalibela": {
+    "meta": {
+      "title": "Lalibela - Ethiopia's Spiritual Heart",
+      "description": "Explore the 11 rock-hewn churches..."
+    },
+    "content": {
+      "highlights": ["UNESCO World Heritage Site", "Rock-hewn churches", "Pilgrimage destination"],
+      "tours": [
+        {"name": "Classic Lalibela Tour", "duration": "3 days", "price": "$350"},
+        {"name": "Lalibela & Surroundings", "duration": "5 days", "price": "$600"}
+      ],
+      "gallery": [
+        "/media/lalibela1.jpg",
+        "/media/lalibela2.jpg"
+      ]
+    }
+  }
+} 
