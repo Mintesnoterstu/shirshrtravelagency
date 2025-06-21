@@ -2,24 +2,39 @@
   "lalibela": {
     "meta": {
       "title": "Lalibela - Ethiopia's Spiritual Heart",
-      "description": "Explore the 11 rock-hewn churches..."
+      "description": "Explore the 11 rock-hewn churches...",
+      "short": "11 medieval churches carved from rock. UNESCO World Heritage Site.",
+      "image": "https://holeinthedonut.com/wp-content/uploads/2018/05/Ethiopia-Bete-Maryam-in-northeastern-group-of-rock-hewn-churches-of-Lalibela.jpg"
     },
     "content": {
-      "highlights": ["UNESCO World Heritage Site", "Rock-hewn churches", "Pilgrimage destination"],
+      "highlights": [
+        "UNESCO World Heritage Site - 11 Rock-Hewn Churches",
+        "Bete Maryam - Most Beautiful Church with Frescoes",
+        "Bete Golgotha - Royal Burial Church",
+        "Bete Giyorgis - Iconic Cross-Shaped Church",
+        "Underground Tunnels - Connecting All Churches"
+      ],
       "tours": [
         {"name": "Classic Lalibela Tour", "duration": "3 days", "price": "$350"},
-        {"name": "Lalibela & Surroundings", "duration": "5 days", "price": "$600"}
+        {"name": "Lalibela & Surroundings", "duration": "5 days", "price": "$600"},
+        {"name": "Lalibela Spiritual Journey", "duration": "4 days", "price": "$480"},
+        {"name": "Historic Route: Lalibela & Axum", "duration": "7 days", "price": "$850"}
       ],
       "gallery": [
-        "/media/lalibela1.jpg",
-        "/media/lalibela2.jpg"
-      ]
+        "/media/lalibela-bete-maryam.jpg",
+        "/media/lalibela-bete-golgotha.jpg",
+        "/media/lalibela-bete-giyorgis.jpg",
+        "/media/lalibela-underground-tunnels.jpg"
+      ],
+      "description": "Discover the mystical rock-hewn churches of Lalibela, Ethiopia's spiritual heart and a UNESCO World Heritage Site. Carved entirely from solid rock in the 12th and 13th centuries, these 11 churches represent one of the world's most remarkable architectural achievements. Bete Maryam, the most beautiful church, features stunning frescoes and is believed to be the first church built by King Lalibela. Bete Golgotha, the royal burial church, contains the tombs of King Lalibela and several Ethiopian kings. The iconic Bete Giyorgis (Church of St. George) is carved in the shape of a cross and stands as the most famous symbol of Lalibela. All churches are connected by an intricate network of underground tunnels and trenches, creating a spiritual labyrinth that continues to inspire pilgrims and visitors from around the world."
     }
   },
   "axum": {
     "meta": {
       "title": "Axum - Ethiopia's Ancient Cradle of Civilization",
-      "description": "Where Legends of Kings, Queens, and Sacred Arks Come to Life"
+      "description": "Where Legends of Kings, Queens, and Sacred Arks Come to Life",
+      "short": "Heart of ancient Ethiopia. Obelisks, tombs, Ark of the Covenant legend.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/6f/b2/15/from-the-early-4th-century.jpg?w=2000&h=-1&s=1"
     },
     "content": {
       "highlights": [
@@ -46,7 +61,9 @@
   "gondar": {
     "meta": {
       "title": "Gondar - Ethiopia's Imperial Citadel",
-      "description": "Where Medieval Castles Meet African Majesty"
+      "description": "Where Medieval Castles Meet African Majesty",
+      "short": "17th-century castles and palaces. Fasil Ghebbi, Debre Berhan Selassie.",
+      "image": "https://as1.ftcdn.net/v2/jpg/04/81/01/08/1000_F_481010899_hDF8kx3A0TY0alVcbtSszeA8T5msbgaN.jpg"
     },
     "content": {
       "highlights": [
@@ -74,7 +91,9 @@
   "simien-mountains": {
     "meta": {
       "title": "Simien Mountains - Africa's Grandest Highlands",
-      "description": "Where Jagged Peaks Touch the Sky and Rare Wildlife Roams Free"
+      "description": "Where Jagged Peaks Touch the Sky and Rare Wildlife Roams Free",
+      "short": "Dramatic cliffs, deep valleys, rare wildlife. UNESCO site.",
+      "image": "https://simienpark.org/wp-content/uploads/2017/10/simien-landscape-small.jpg"
     },
     "content": {
       "highlights": [
@@ -102,7 +121,9 @@
   "danakil-depression": {
     "meta": {
       "title": "Danakil Depression - Journey to the Gates of Hell",
-      "description": "Where Fire, Salt, and Sulfur Create Earth's Most Alien Landscape"
+      "description": "Where Fire, Salt, and Sulfur Create Earth's Most Alien Landscape",
+      "short": "Earth's hottest, lowest place. Volcanoes, sulfur springs, salt flats.",
+      "image": "https://waltainfo.com/wp-content/uploads/2023/10/Dal9ol.webp"
     },
     "content": {
       "highlights": [
@@ -130,7 +151,9 @@
   "omo-valley": {
     "meta": {
       "title": "Omo Valley - Where Time Stands Still",
-      "description": "A Living Museum of Ancient Tribal Traditions"
+      "description": "A Living Museum of Ancient Tribal Traditions",
+      "short": "Home to many indigenous tribes. Unique cultures and ceremonies.",
+      "image": "https://images.ctfassets.net/27l0lnvdn7un/6xgRuCaom50bqAhPQNMS9q/c1d7e1240090e34e7797d4d9715f16f5/20231109_091304.jpg?fm=webp&w=3840&q=75"
     },
     "content": {
       "highlights": [
@@ -158,7 +181,9 @@
   "bale-mountains": {
     "meta": {
       "title": "Bale Mountains - Ethiopia's Secret Wilderness",
-      "description": "Where Wolves Roam and Cloud Forests Whisper"
+      "description": "Where Wolves Roam and Cloud Forests Whisper",
+      "short": "Afro-alpine meadows, cloud forests, Ethiopian wolves.",
+      "image": "https://www.shadowsofafrica.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/s/h/shutterstock_1950133336.jpg"
     },
     "content": {
       "highlights": [
@@ -186,7 +211,9 @@
   "harar": {
     "meta": {
       "title": "Harar - Africa's Walled Wonder",
-      "description": "Where Hyenas Dine with Humans and Alleys Bloom with Color"
+      "description": "Where Hyenas Dine with Humans and Alleys Bloom with Color",
+      "short": "Ancient walled city. 82 mosques, hyena feeding tradition.",
+      "image": "https://www.ethiosports.com/wp-content/uploads/2015/07/Harar-Wall.jpg"
     },
     "content": {
       "highlights": [
@@ -214,7 +241,9 @@
   "blue-nile-falls": {
     "meta": {
       "title": "Blue Nile Falls - Ethiopia's Smoking Water",
-      "description": "Where the Mighty Nile Begins Its Journey"
+      "description": "Where the Mighty Nile Begins Its Journey",
+      "short": "Dramatic falls on the Blue Nile. Best in rainy season.",
+      "image": "https://sabisatour.com/wp-content/uploads/2022/12/Blue_Nile_Falls-2-960x636.jpg"
     },
     "content": {
       "highlights": [
@@ -242,7 +271,9 @@
   "tiya": {
     "meta": {
       "title": "Tiya - Ethiopia's Stonehenge",
-      "description": "Where Ancient Mysteries Stand in Silent Rows"
+      "description": "Where Ancient Mysteries Stand in Silent Rows",
+      "short": "UNESCO site. Mysterious ancient stelae with carvings.",
+      "image": "https://www.ancient-origins.net/sites/default/files/styles/article_image/public/field/image/Tiya-Stones-monoliths-Ethiopia.jpg?itok=7ahIWyXR"
     },
     "content": {
       "highlights": [
@@ -270,7 +301,9 @@
   "national-museum": {
     "meta": {
       "title": "National Museum of Ethiopia - Cradle of Humankind",
-      "description": "Where Lucy Walks You Through Millennia of History"
+      "description": "Where Lucy Walks You Through Millennia of History",
+      "short": "Home of 'Lucy'. Royal regalia, ancient relics, ethnographic treasures.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b9/09/c9/national-museum.jpg?w=2000&h=-1&s=1"
     },
     "content": {
       "highlights": [
@@ -298,7 +331,9 @@
   "abuna-yemata-guh": {
     "meta": {
       "title": "Abuna Yemata Guh - The Cliffside Miracle",
-      "description": "Where Faith Defies Gravity"
+      "description": "Where Faith Defies Gravity",
+      "short": "Cliff church. 6th-century. Epic climb, ancient frescoes, Gheralta views.",
+      "image": "https://images.westend61.de/0001440020pw/priest-holding-the-hand-cross-on-rocks-outside-abuna-yemata-guh-church-gheralta-mountains-tigray-region-ethiopia-africa-RHPLF17382.jpg"
     },
     "content": {
       "highlights": [
