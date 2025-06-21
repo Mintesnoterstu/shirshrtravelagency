@@ -98,5 +98,229 @@
       ],
       "description": "Prepare to have your breath stolen - literally and figuratively - in Ethiopia's Simien Mountains National Park, a UNESCO World Heritage Site often called 'Africa's Grand Canyon.' This otherworldly landscape of dramatic escarpments, sheer cliffs, and rolling highland plateaus plunges down nearly 1,500 meters in places, creating one of the continent's most spectacular trekking destinations. Home to endemic wildlife, traditional villages, and some of the continent's most breathtaking vistas, the Simiens offer an adventure that's both physically challenging and spiritually uplifting."
     }
+  },
+  "danakil-depression": {
+    "meta": {
+      "title": "Danakil Depression - Journey to the Gates of Hell",
+      "description": "Where Fire, Salt, and Sulfur Create Earth's Most Alien Landscape"
+    },
+    "content": {
+      "highlights": [
+        "Hottest Place on Earth - Average 50°C (122°F)",
+        "Erta Ale Volcano - Permanent Lava Lake",
+        "Dallol Hydrothermal Field - Martian Landscape",
+        "Lake Afrera Salt Flats - Ancient Salt Caravans",
+        "125m Below Sea Level - One of Earth's Lowest Points"
+      ],
+      "tours": [
+        {"name": "Danakil Day Trip", "duration": "1 day", "price": "$150"},
+        {"name": "Erta Ale Volcano Trek", "duration": "3 days", "price": "$420"},
+        {"name": "Danakil Adventure", "duration": "5 days", "price": "$680"},
+        {"name": "Extreme Danakil Expedition", "duration": "7 days", "price": "$950"}
+      ],
+      "gallery": [
+        "/media/danakil-lava-lake.jpg",
+        "/media/danakil-dallol.jpg",
+        "/media/danakil-salt-flats.jpg",
+        "/media/danakil-afar-caravan.jpg"
+      ],
+      "description": "Venture into one of the most extreme environments on Earth - the Danakil Depression, a vast volcanic plain where temperatures soar to 50°C (122°F) and the ground bubbles with toxic gases. This UNESCO-listed site is the hottest place on Earth (average annual temperature), one of the lowest points on land (125m below sea level), and home to 30% of Africa's active volcanoes. Walk on active volcanoes, see geological processes found nowhere else, experience nomadic Afar culture, and photograph surreal colors from sulfur yellows to iron oxide reds."
+    }
+  },
+  "omo-valley": {
+    "meta": {
+      "title": "Omo Valley - Where Time Stands Still",
+      "description": "A Living Museum of Ancient Tribal Traditions"
+    },
+    "content": {
+      "highlights": [
+        "UNESCO World Heritage Site - Cultural Diversity",
+        "Over 50 Distinct Tribes - Living Traditions",
+        "Mursi People - Clay Lip Plates & Scarification",
+        "Hamer Tribe - Bull-Jumping Ceremonies",
+        "Karo People - Elaborate Body Painting"
+      ],
+      "tours": [
+        {"name": "Omo Valley Cultural Tour", "duration": "3 days", "price": "$280"},
+        {"name": "Tribal Traditions Experience", "duration": "5 days", "price": "$450"},
+        {"name": "Omo Valley Photography Safari", "duration": "7 days", "price": "$720"},
+        {"name": "Ethiopia Cultural Heritage", "duration": "10 days", "price": "$1,100"}
+      ],
+      "gallery": [
+        "/media/omo-mursi-tribe.jpg",
+        "/media/omo-hamer-ceremony.jpg",
+        "/media/omo-karo-painting.jpg",
+        "/media/omo-turmi-market.jpg"
+      ],
+      "description": "In Ethiopia's remote southwest, the Omo Valley shelters some of the world's most fascinating indigenous groups. This UNESCO World Heritage Site is home to over 50 distinct tribes, last practitioners of ancient body modifications, and vibrant weekly markets where cultures collide. Experience authentic encounters with intact cultures, photographic paradise of colors and textures, and life-changing perspective on human diversity through ethical travel practices."
+    }
+  },
+  "bale-mountains": {
+    "meta": {
+      "title": "Bale Mountains - Ethiopia's Secret Wilderness",
+      "description": "Where Wolves Roam and Cloud Forests Whisper"
+    },
+    "content": {
+      "highlights": [
+        "UNESCO Biosphere Reserve - Ecological Wonderland",
+        "Sanetti Plateau - Africa's Highest Paved Road (4,000m)",
+        "Ethiopian Wolf - Endangered Species (Only 500 Remain)",
+        "Harenna Forest - Cloud Forests & Hidden Waterfalls",
+        "Dinsho Wildlife Sanctuary - Mountain Nyala"
+      ],
+      "tours": [
+        {"name": "Bale Mountains Day Tour", "duration": "1 day", "price": "$110"},
+        {"name": "Wolf Tracking Adventure", "duration": "3 days", "price": "$380"},
+        {"name": "Bale Mountains Trek", "duration": "5 days", "price": "$520"},
+        {"name": "Bale & Harar Discovery", "duration": "8 days", "price": "$890"}
+      ],
+      "gallery": [
+        "/media/bale-ethiopian-wolf.jpg",
+        "/media/bale-sanetti-plateau.jpg",
+        "/media/bale-harenna-forest.jpg",
+        "/media/bale-dinsho-wildlife.jpg"
+      ],
+      "description": "Hidden in Ethiopia's southeast, the Bale Mountains National Park is a world of extremes—from alpine meadows to dense rainforests, all above 3,000m. This UNESCO Biosphere Reserve shelters more than 60 mammal species, over 300 bird species (including 16 endemics), and Africa's largest alpine ecosystem. Walk across Africa's highest paved road, spot the endangered Ethiopian wolf, and discover hidden waterfalls in cloud forests dripping with moss."
+    }
+  },
+  "harar": {
+    "meta": {
+      "title": "Harar - Africa's Walled Wonder",
+      "description": "Where Hyenas Dine with Humans and Alleys Bloom with Color"
+    },
+    "content": {
+      "highlights": [
+        "UNESCO World Heritage Site - Harar Jugol",
+        "368 Colorful Alleyways - Medieval Maze",
+        "Hyena Feeding Ritual - World's Only Urban Feeders",
+        "82 Mosques - More Than Any African City",
+        "Traditional Harari Houses - Jewel Box Architecture"
+      ],
+      "tours": [
+        {"name": "Harar Cultural Experience", "duration": "2 days", "price": "$180"},
+        {"name": "Harar & Hyenas Tour", "duration": "3 days", "price": "$250"},
+        {"name": "Harar Heritage Discovery", "duration": "4 days", "price": "$320"},
+        {"name": "Eastern Ethiopia Explorer", "duration": "6 days", "price": "$580"}
+      ],
+      "gallery": [
+        "/media/harar-hyena-feeding.jpg",
+        "/media/harar-old-city.jpg",
+        "/media/harar-harari-houses.jpg",
+        "/media/harar-coffee-ceremony.jpg"
+      ],
+      "description": "Step into Harar Jugol, a UNESCO-listed maze of 368 alleyways packed with 82 mosques (more than any city in Africa), traditional Harari houses painted like jewel boxes, and the world's only urban hyena feeders. Watch the 'Hyena Man' call wild hyenas by name, get lost in colorful alleys smelling of coffee and spices, attend traditional coffee ceremonies in Harari homes, and experience Africa's fourth holiest Islamic city with unique Sufi traditions."
+    }
+  },
+  "blue-nile-falls": {
+    "meta": {
+      "title": "Blue Nile Falls - Ethiopia's Smoking Water",
+      "description": "Where the Mighty Nile Begins Its Journey"
+    },
+    "content": {
+      "highlights": [
+        "Tis Abay - 'Great Smoke' - 400m Wide Cascade",
+        "Source of Blue Nile - 1,450km Journey to Sudan",
+        "17th Century Portuguese Bridge - Still in Use",
+        "Traditional Water Mills - Teff Grinding",
+        "Colobus Monkeys - Nearby Forest Wildlife"
+      ],
+      "tours": [
+        {"name": "Blue Nile Falls Day Trip", "duration": "1 day", "price": "$75"},
+        {"name": "Falls & Lake Tana Combo", "duration": "2 days", "price": "$140"},
+        {"name": "Bahir Dar & Falls Experience", "duration": "3 days", "price": "$200"},
+        {"name": "Northern Ethiopia Waterways", "duration": "5 days", "price": "$450"}
+      ],
+      "gallery": [
+        "/media/blue-nile-falls-main.jpg",
+        "/media/blue-nile-portuguese-bridge.jpg",
+        "/media/blue-nile-water-mills.jpg",
+        "/media/blue-nile-rainbow.jpg"
+      ],
+      "description": "Witness the awe-inspiring Blue Nile Falls, known locally as Tis Abay ('Great Smoke'). This 400-meter-wide cascade marks where the Blue Nile begins its epic 1,450km journey to Sudan. During peak season (June-September), the falls transform into one of Africa's most powerful waterfalls, creating a permanent rainbow in the mist, deafening roar heard kilometers away, and legendary 'smoke' plume visible from space. Cross the 17th-century Portuguese Bridge, feel the spray at main observation platforms, and meet traditional millers grinding teff at water-powered mills."
+    }
+  },
+  "tiya": {
+    "meta": {
+      "title": "Tiya - Ethiopia's Stonehenge",
+      "description": "Where Ancient Mysteries Stand in Silent Rows"
+    },
+    "content": {
+      "highlights": [
+        "UNESCO World Heritage Site - Since 1980",
+        "36 Ancient Stelae - 4m Tall Megaliths",
+        "Mysterious Sword Carvings - Unknown Origins",
+        "Underground Burial Chambers - 12th-14th Century",
+        "Perfectly Aligned Rows - 50m Stretch"
+      ],
+      "tours": [
+        {"name": "Tiya Megaliths Day Tour", "duration": "1 day", "price": "$60"},
+        {"name": "Tiya & Adadi Mariam Combo", "duration": "1 day", "price": "$90"},
+        {"name": "Addis Ababa Heritage Tour", "duration": "2 days", "price": "$150"},
+        {"name": "Southern Ethiopia Archaeology", "duration": "4 days", "price": "$280"}
+      ],
+      "gallery": [
+        "/media/tiya-stelae-field.jpg",
+        "/media/tiya-sword-carvings.jpg",
+        "/media/tiya-archaeological-museum.jpg",
+        "/media/tiya-aligned-rows.jpg"
+      ],
+      "description": "The Tiya megaliths represent Ethiopia's most enigmatic archaeological site - 36 ancient stelae covered in mysterious symbols. Dating back to the 12th-14th centuries, these 4-meter-tall stones feature intricate carvings of swords and plants, underground burial chambers, and unknown origins (possibly a warrior memorial). See the most decorated stones with sword motifs, marvel at perfectly aligned rows stretching 50 meters, view excavated artifacts from the tombs, and hear tales of ancient battles commemorated here - locals call it 'the place where giants are buried.'"
+    }
+  },
+  "national-museum": {
+    "meta": {
+      "title": "National Museum of Ethiopia - Cradle of Humankind",
+      "description": "Where Lucy Walks You Through Millennia of History"
+    },
+    "content": {
+      "highlights": [
+        "Lucy (Dinkinesh) - 3.2 Million-Year-Old Ancestor",
+        "Selam - 'Lucy's Baby' - 3.3 Million Years Old",
+        "Aksumite Artifacts - Ancient Coins & Maqdala Treasures",
+        "Ethnographic Gallery - 80+ Ethnic Groups",
+        "Imperial Collection - Haile Selassie's Bedroom"
+      ],
+      "tours": [
+        {"name": "Museum & City Tour", "duration": "1 day", "price": "$45"},
+        {"name": "Addis Ababa Cultural Experience", "duration": "2 days", "price": "$120"},
+        {"name": "Ethiopia Heritage Discovery", "duration": "3 days", "price": "$180"},
+        {"name": "Capital & Countryside", "duration": "5 days", "price": "$350"}
+      ],
+      "gallery": [
+        "/media/museum-lucy-skeleton.jpg",
+        "/media/museum-aksumite-artifacts.jpg",
+        "/media/museum-ethnographic-gallery.jpg",
+        "/media/museum-imperial-collection.jpg"
+      ],
+      "description": "Step into the National Museum of Ethiopia in Addis Ababa, where the nation's 3,000-year history unfolds across four fascinating floors. This is much more than a museum—it's home to 'Lucy' (Dinkinesh), our 3.2 million-year-old ancestor, guardian of Ethiopia's imperial treasures, and showcase of Africa's diverse artistic heritage. Meet Lucy and Selam (Lucy's baby), marvel at Aksumite artifacts including ancient coins and the Maqdala treasures, explore traditional costumes from 80+ Ethiopian ethnic groups, and visit Emperor Haile Selassie's bedroom recreated with original furnishings."
+    }
+  },
+  "abuna-yemata-guh": {
+    "meta": {
+      "title": "Abuna Yemata Guh - The Cliffside Miracle",
+      "description": "Where Faith Defies Gravity"
+    },
+    "content": {
+      "highlights": [
+        "World's Most Inaccessible Church - 300m Cliff",
+        "5th Century Frescoes - Untouched by Time",
+        "Heart-Pounding Ascent - No Safety Ropes",
+        "Dome Frescoes - Nine Saints & 12 Apostles",
+        "Ancient Manuscripts - Sealed in Leather Pouches"
+      ],
+      "tours": [
+        {"name": "Abuna Yemata Guh Climb", "duration": "1 day", "price": "$85"},
+        {"name": "Tigray Rock Churches Tour", "duration": "3 days", "price": "$280"},
+        {"name": "Northern Ethiopia Spiritual Journey", "duration": "5 days", "price": "$420"},
+        {"name": "Ethiopia's Sacred Sites", "duration": "8 days", "price": "$680"}
+      ],
+      "gallery": [
+        "/media/abuna-yemata-cliff.jpg",
+        "/media/abuna-yemata-frescoes.jpg",
+        "/media/abuna-yemata-interior.jpg",
+        "/media/abuna-yemata-view.jpg"
+      ],
+      "description": "Carved into a sheer 300-meter cliff in Tigray's Gheralta Mountains, the 5th-century Abuna Yemata Guh offers breathtaking frescoes untouched by time, a heart-pounding ascent with no safety ropes, and spiritual rewards beyond imagination. Experience a 1.5-hour climb using hand-carved footholds, a final 10-meter vertical stretch requiring barefoot climbing, dome frescoes of the Nine Saints and 12 Apostles, ancient manuscripts sealed in leather pouches, and perfect acoustics for liturgical chanting with panorama across Tigray's sandstone formations."
+    }
   }
 } 
